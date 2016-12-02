@@ -1,0 +1,29 @@
+<ion-side-menus enable-menu-with-back-views="false" class="menu_bg">
+  <ion-side-menu-content>
+
+    <ion-nav-bar class="bar-positive header_top_bar">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear" menu-toggle="left"><img class="menu_btn" src="img/menu.png">
+      </button>
+      </ion-nav-buttons>
+      <ion-nav-buttons side="right">
+       <!--  <a ng-click="shareDetail()" class="button button-icon search-menu button-clear ion-android-share-alt"></a> -->
+       </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left">
+    <ion-content class="menu-content">
+      <div class="padding logo-rw spc_top">
+      <img src="img/gravity-logo.png" alt="gravity">
+    </div>
+      <ion-list>
+        <ion-item menu-close href="#/app/home"><img src="img/home.png">Home</ion-item>
+       </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

@@ -1,0 +1,426 @@
+/*
+  font-family: 'Montserrat Light', arial;
+  font-family: 'Montserrat Hairline', arial;
+  font-family: 'Montserrat', sans-serif;
+*/
+body{ font-family: 'Montserrat', sans-serif; }
+.item-input{
+  text-align: left;
+}
+.padding.logo-rw {
+  margin-top: 28px;
+  text-align: center;
+}
+.spc_top {
+    margin-top: 34px;
+}
+.padding.logo-rw.spc_top img {
+  margin-bottom: 0px;
+  width: 110px;
+}
+.contact .hide {
+display: block !important;
+}
+.padding.logo-rw img {
+    width: 100px;
+}
+.background {
+    background: #fff url("../img/background.png") no-repeat scroll right top / contain ;
+    padding: 50px 0 90px;
+    text-align: center;
+    width: 100%;
+}
+.button-assertive.ink{
+  background: #a59851;
+  border-radius: 63px;
+  font-family: 'Montserrat', sans-serif;
+}
+.button.button-fb.ink{
+  background: #305098;
+  border-radius: 63px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+label.item.item-stacked-label {
+    border-left: medium none;
+    border-right: medium none;
+}
+label.item.item-stacked-label:first-child {
+    border-top: medium none;
+}
+label.item.item-stacked-label input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    font-family: 'Montserrat Light', arial;
+}
+.padding.inner-login-btn.spc_rw {
+    padding: 0;
+}
+.padding.not_acc { font-family: 'Montserrat Light', arial;  font-size: 16px;}
+.padding.not_acc a{
+  color: #000;  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.menu_bg .menu.menu-left {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a59851+0,f2e398+100 */
+background: rgb(165,152,81) !important; /* Old browsers */
+background: -moz-linear-gradient(left, rgba(165,152,81,1) 0%, rgba(242,227,152,1) 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a59851', endColorstr='#f2e398',GradientType=1 ) !important; /* IE6-9 */
+}
+.menu_bg .menu.menu-left ion-item {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border-color: #897737;
+}
+.menu_bg .menu.menu-left ion-item a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #333;
+}
+.sex {
+  display: inline-block;
+  margin: 0 15px;
+  padding: 0;
+  text-align: left;
+  width: 100%;
+  color: #515151;
+   font-family: 'Montserrat Light', arial;
+}
+.sex input {
+  margin-right: 2px;
+  font-family: 'Montserrat Light', arial;
+
+}
+.sex input:last-child {
+  margin-left: 20px;
+ }
+ .padding.inner-login-btn > a{ text-decoration: none; }
+.header_top_bar{ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a59851+0,f2e398+100 */
+background: rgb(165,152,81) !important; /* Old browsers */
+background: -moz-linear-gradient(left, rgba(165,152,81,1) 0%, rgba(242,227,152,1) 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a59851', endColorstr='#f2e398',GradientType=1 ) !important; /* IE6-9 */
+border-bottom: none !important;
+ height: 50px;}
+
+ .menu-left{ }
+ .menu_btn {width: 25px;}
+.landing_bannr > img {
+  width: 100%;
+}
+
+
+.has-header {
+  top: 50px;
+}
+.product_img > img{
+  width: 100px
+}
+.product_detail .inner-login-btn h3 {
+  font-size: 19px; font-family: 'Montserrat Light';
+}
+.product_detail {
+  margin-top: 20px;
+  text-align: center;
+}
+.product_detail .padding.inner-login-btn > a { display: inline-block; font-family: 'Montserrat Light';}
+.padding.inner-categories.bg_catagories {
+  background: #cbbd76 none repeat scroll 0 0;
+}
+.footer_end {
+  background: #333 none repeat scroll 0 0;
+  border-top: 3px solid #cdc071;
+  text-align: center;
+}
+.footer_end h3 {
+  color: #cdc071;
+  font-size: 15px;
+  margin: 0;
+}
+.header_top_bar .title.title-center.header-item {
+  color: #000;  font-family: 'Montserrat', sans-serif; text-transform: uppercase;
+}
+.guide_banner > img {
+  width: 100%;
+}
+.guide_banner {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+.text_banner {
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
+
+.text_banner > h3 {
+  color: #fff;
+  font-family: 'Montserrat Light'; font-size: 21px;
+}
+
+.text_banner p {
+  color: #fff;
+  font-family: "Montserrat Light";
+  font-weight: lighter;
+  letter-spacing: 1px;
+  line-height: 30px;
+  padding: 0 18px;
+}
+
+.guide_form select {
+  background-image: url("../img/arrow_icon.png");
+  background-position: right 10px center;
+  background-repeat: no-repeat;
+  background-size: 13px auto;
+  color: #ddd;
+  display: block;
+  font-size: 16px;
+  margin-bottom: 11px;
+  margin-top: 8px;
+  width: 100%; border:none;
+}
+.guide_btn .button{ color: #000; }
+
+.guide_form h5 {
+font-size: 12px;
+
+font-family: 'Montserrat Light';
+ }
+
+ .forget_text {
+  color: #000;
+  float: right;
+  text-align: right;
+  text-decoration: none;
+  width: auto;
+  font-family: 'Montserrat Light';
+  margin-top: 5px;
+}
+.landing_header {
+  background: transparent none repeat scroll 0 0 !important;
+  border: medium none !important;
+  /*left: 0;
+  padding: 0;
+  position: absolute;*/
+}
+.has_header_landing {top: 0;}
+.button.activated{ background: #a59851 none repeat scroll 0 0 !important; }
+.item-content > img {
+  margin-right: 14px;
+  width: 26px;
+}
+.item-complex .item-content {padding:7px 10px;}
+.gender_btn {border:none;}
+.gender_btn .gender_text {text-align: left;}
+.some-class { text-align: left; }
+.some-class > label {margin-right: 20px;}
+.product_detail p {
+  color: #5f5f5f;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+.has_header_landing .padding.inner-categories{ padding: 0; }
+.treatment_summry a {
+  margin-left: 0;
+  text-align: left;
+}
+.sum_text {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.treatment_summry img{
+  border:1px solid #ddd;
+}
+.sum_text h2{ font-size: 18px;  font-family: 'Montserrat', sans-serif; margin-bottom: 5px;}
+.sum_text p {font-size: 14px; color: #787878; font-family: 'Montserrat Light';  margin: 0; }
+/*------------float---------*/
+.button-float{
+  background: $assertive !important;
+  color:white !important;
+  z-index: 12 !important;
+  position: absolute !important;
+  bottom: 10px !important;
+  right: 10px !important;
+  border-radius: 50% !important;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26) !important;
+  -webkit-transform: translate3d(0, 0, 0) !important;
+  transform: translate3d(0, 0, 0) !important;
+  -webkit-transition: 0.2s linear !important;
+  transition: 0.2s linear !important;
+  -webkit-transition-property: -webkit-transform, all !important;
+  transition-property: transform, all !important;
+
+}
+
+.button-float:hover{
+  -webkit-transform: translate3d(0, -1px, 0)  !important;
+  transform: translate3d(0, -1px, 0) !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4) !important;
+    background: darken($assertive, 10%) !important;
+}
+
+.float_btn { background: #bdb064; }
+.float_btn .ion-android-share-alt {
+  color: #000;
+  font-size: 24px;
+}
+
+
+/*------------slider---------*/
+.slider {
+  height: 100%;
+}
+.slider-slide {
+
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+
+
+  font-weight: 300;
+}
+
+#logo {
+  margin: 30px 0px;
+}
+
+#list {
+  width: 170px;
+  margin: 30px auto;
+  font-size: 20px;
+}
+#list ol {
+  margin-top: 30px;
+}
+#list ol li {
+  text-align: left;
+  list-style: decimal;
+  margin: 10px 0px;
+}
+
+.button.ng-hide{
+  display:none;
+}
+.box.blue > img {width: 225px;}
+.vedio_manual {
+  display: inline-block;
+  width: 100%;
+}
+.list_manual{ text-align: left; }
+.manual_contant p{
+ font-size: 15px;
+   font-family: 'Montserrat Light';
+   margin-top: 5px;
+   text-align: left;
+   color: #010100;}
+.list_manual h3 {
+  font-size: 15px;
+   font-family: 'Montserrat Light';
+   margin-top: 5px;
+   color: #010100;
+}
+.list_manual li {
+  color: #6e6e6e;
+  font-size: 14px;
+  margin-top: 15px;
+  font-family: 'Montserrat Light';
+  letter-spacing: 0.5px;
+}
+
+.list_manual li span{ margin-right: 5px; }
+.border-top { border-top: 1px solid #ddd; }
+.title.title-center.header-item > span {
+  /*display: inline-block;*/
+  font-size: 14px;
+  left: 0;
+  position: absolute;
+  text-transform: capitalize;
+  top: 15px;
+  width: 100%;
+  z-index: 999;
+  font-family: 'Montserrat Light';
+}
+.title.title-center.header-item {
+  height: 50px;
+}
+.image_treatment img{
+width: 100%;
+ }
+ .take_photo {width: 100%; display: inline-block;}
+ .image_treatment.col.col-100{
+ border: 1px solid #ddd; }
+ .bg_footer{
+  background: rgb(165,152,81) !important; /* Old browsers */
+background: -moz-linear-gradient(left, rgba(165,152,81,1) 0%, rgba(242,227,152,1) 100%) !important; /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(165,152,81,1) 0%,rgba(242,227,152,1) 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a59851', endColorstr='#f2e398',GradientType=1 ) !important; /* IE6-9 */
+border-bottom: none !important;
+border-top:none !important;
+
+ }
+.bg_footer .tab-item {
+  border-right: 1px solid #9d8f4b;
+  color: #000;
+  font-family: "Montserrat",sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.bg_footer .tab-item:last-child {
+border: none;
+}
+
+.bg_footer .tab-item {
+  max-width: none;
+}
+.bg_footer .tab-item.active { border: none; background: #a79a53; height: 50px; }
+.bg_footer .tab-item.activated{ border: none; }
+.book {
+  margin-top: 8px;
+  width: 35px;
+}
+.vedio_treatment .video-container  iframe  {width: 100%;}
+.setting {
+  margin-top: 0px;
+  width: 35px;
+}
+
+/***********calender**********/
+.full button span {
+    background-color: limegreen;
+    border-radius: 32px;
+    color: black;
+  }
+.partially button span {
+  background-color: orange;
+  border-radius: 32px;
+  color: black;
+}
+.start_date {
+  float: left;
+  width: 50%;
+}
+.date_calender.padding{
+  display: inline-block;
+  padding: 10px;
+  width: 100%;
+}
+.start_date > button {
+  background: #bdb064 none repeat scroll 0 0;
+  border-radius: 25px;
+  display: inline-block;
+  padding: 13px 25px; border: none;
+}
+.start_date p{ margin: 15px 0 0 0;
+font-family: 'Montserrat Light', arial;
+}
+.calender_gravity .well{
+background: none;
+border: none;
+box-shadow: none;
+ }
+/***********calender**********/

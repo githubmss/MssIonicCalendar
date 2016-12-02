@@ -1,0 +1,48 @@
+<ion-view class="background forgot" title="Create Events">
+
+  <ion-nav-bar class="bar-positive header_top_bar contact">
+
+    <ion-nav-back-button  ng-click="myGoBack()">
+      <img class="back_icn" src="img/back_btn.png">
+    </ion-nav-back-button>
+
+    <ion-nav-buttons side="left">
+    </ion-nav-buttons>
+
+    <ion-nav-buttons side="right">
+    </ion-nav-buttons>
+  </ion-nav-bar>
+
+     <ion-content>
+
+        <div class="padding">
+
+
+          <form class="login_form">
+            <div class="list">
+              <label class="item item-input item-stacked-label">
+                <span class="input-label">Name</span>
+                <input focus type="text" placeholder="Enter Your Name" ng-model="data.name" id="name"   >
+              </label>
+              <label class="item item-input item-stacked-label">
+                <span class="input-label">Discription</span>
+                <input focus type="text" placeholder="Enter Your Discription" ng-model="data.discription" id="email"  >
+              </label>
+
+<label class="item item-input">
+          <input type="date" placeholder="Date" ng-model="data.Date">
+          </label>
+
+
+            </div>
+            <div class="padding inner-login-btn">
+              <button type="button" class="button button-block button-assertive ink" ng-click="createEvent(data)">CreateEvent
+              </button>
+            </div>
+
+          </form>
+        </div>
+      </ion-content>
+</ion-view>
+
+
